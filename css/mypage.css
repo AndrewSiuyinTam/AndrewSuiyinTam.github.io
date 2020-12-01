@@ -2,7 +2,7 @@
   padding: 60px;
   text-align: center;
   color:white;
-  background-image: url("code.jpeg");
+  background-image: url("wow.jpeg");
       background-position:center center;
       background-attachment:fixed;
       background-size:cover;
@@ -170,6 +170,7 @@ float:left;
 }
 #myName{
   font-size: 35px;
+  color:black;
 
 }
 .experience{
