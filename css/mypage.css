@@ -32,6 +32,16 @@ body{
   margin-top: 30px;
 
 }
+.toolkit{
+  background-color: #001933;
+}
+#toolkit-img{
+  border-radius: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
 #personalPic{
   height: 265px;
   width:220px;
