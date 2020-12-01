@@ -72,7 +72,7 @@ float:left;
 }
 .experience-section{
   text-align: center;
-  background-color: white;
+  background-color: #CCE5FF;
 }
 #new{
   color: white;
@@ -178,7 +178,7 @@ float:left;
 }
 .experience-section{
 
-  background-color: #E0E0E0;
+  background-color: #CCE5FF;
 }
 #date-worked{
   margin-right: 320px;
@@ -257,7 +257,7 @@ float:left;
   color: black;
 }
 .projects{
-  background-color: #E0E0E0;
+  background-color: #CCE5FF;
 }
 .project{
   display: inline-block;
